@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Introtuce</string>
+    <string name="tab_text_1">Users</string>
+    <string name="tab_text_2">Enroll</string>
+
+    <!-- Enroll Fragment -->
+    <string name="select_photo">Select Profile Photo</string>
+    <string name="prompt_first_name">First Name</string>
+    <string name="prompt_last_name">Last Name</string>
+    <string name="prompt_dob">Date of Birth</string>
+    <string name="prompt_gender">Gender</string>
+    <string name="prompt_country">Country</string>
+    <string name="prompt_state">State</string>
+    <string name="prompt_hometown">Home Town</string>
+    <string name="prompt_phone">Phone Number</string>
+    <string name="prompt_button">Add User</string>
+
+    <!-- Users Fragment    -->
+    <string name="user_name">Shivang Sharma</string>
+    <string name="user_gender">Male</string>
+    <string name="user_age">21</string>
+    <string name="user_hometown">Bareilly</string>
+    <string name="divider"> | </string>
+
+</resources>

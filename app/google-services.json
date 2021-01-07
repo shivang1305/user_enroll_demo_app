@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211416374349",
+    "project_id": "introtuce-2133d",
+    "storage_bucket": "introtuce-2133d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211416374349:android:16829d2d0f909c57c3d004",
+        "android_client_info": {
+          "package_name": "com.hackzero.introtuce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211416374349-jsld9kvkhbtvnlrc12p5vhd8glfof9lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB0kbH3_MEtAZiqRRxo6HRCsYNjKEQ1KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211416374349-jsld9kvkhbtvnlrc12p5vhd8glfof9lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
